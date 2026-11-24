@@ -1,0 +1,97 @@
+{
+  "issue": "042",
+  "updated": "2026-11-24",
+  "post": "https://www.instagram.com/",
+  "items": [
+    {
+      "tag": "QUANTUM",
+      "title": {
+        "ja": "量子コンピューター、誤り訂正で新記録",
+        "en": "Quantum chip sets new error-correction record",
+        "zh": "量子芯片刷新纠错纪录"
+      },
+      "url": "https://example.com/source-1",
+      "host": "signal",
+      "say": {
+        "en": "Errors down. Qubits up.",
+        "zh": "错误更少，量子比特更多。",
+        "ja": "エラー減、量子ビット増。"
+      }
+    },
+    {
+      "tag": "DATACENTER",
+      "title": {
+        "ja": "海底データセンター、実用化へ前進",
+        "en": "Undersea data centers move closer to reality",
+        "zh": "海底数据中心迈向实用化"
+      },
+      "url": "https://example.com/source-2",
+      "host": "piko",
+      "say": {
+        "en": "Servers… underwater?!",
+        "zh": "服务器……在海底？！",
+        "ja": "サーバーが…海の中！？"
+      }
+    },
+    {
+      "tag": "GADGET",
+      "title": {
+        "ja": "目の前に字幕が出るARグラス登場",
+        "en": "AR glasses that caption the world in real time",
+        "zh": "实时字幕AR眼镜问世"
+      },
+      "url": "https://example.com/source-3",
+      "host": "signal",
+      "say": {
+        "en": "Subtitles for real life.",
+        "zh": "现实世界的字幕。",
+        "ja": "現実に字幕がつく時代。"
+      }
+    },
+    {
+      "tag": "PAPER",
+      "title": {
+        "ja": "論文：脳波だけで文字入力が可能に？",
+        "en": "Paper: typing with brainwaves alone?",
+        "zh": "论文：仅凭脑电波就能打字？"
+      },
+      "url": "https://example.com/source-4",
+      "host": "echo",
+      "say": {
+        "en": "What if you just… think it?",
+        "zh": "如果只要……想一想？",
+        "ja": "もし、考えるだけで…？"
+      }
+    },
+    {
+      "tag": "SPACE",
+      "title": {
+        "ja": "宇宙で太陽光発電、地上へ送電テスト",
+        "en": "Space solar power beams energy to Earth",
+        "zh": "太空太阳能向地面输电测试"
+      },
+      "url": "https://example.com/source-5",
+      "host": "piko",
+      "say": {
+        "en": "Sunlight, beamed down!",
+        "zh": "阳光直接传下来！",
+        "ja": "太陽光が降ってくる！"
+      }
+    },
+    {
+      "tag": "ROBOT",
+      "title": {
+        "ja": "家事をこなす人型ロボット、予約開始",
+        "en": "Humanoid home robot opens pre-orders",
+        "zh": "家务人形机器人开启预订"
+      },
+      "url": "https://example.com/source-6",
+      "host": "toasty",
+      "say": {
+        "en": "Can it make toast though?",
+        "zh": "那它会烤面包吗？",
+        "ja": "で、トーストは焼ける？"
+      }
+    }
+  ]
+}
